@@ -2,7 +2,7 @@
 - 👀 I’m currently interested in web development and rest api using spring boot.
 - 🌱 I’m currently learning Angular, Java, Javascript, and TypeScript
 - 💞️ I’m looking to collaborate on anything like Java, Spring boot, Python, or Web Development.
-- 📫 How to reach me? You can contact me through my email llTheBlankll@gmail.com or nytriee@gmail.com
+- 📫 How to reach me? You can contact me through my email llTheBlankll@gmail.com or nytriee@gmail.com<br>
 Click me to see all which programming language I spent time the most.<br>NOTE: They are not accurate.<br>
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri)](https://wakatime.com/@Nytri)
 <!---
