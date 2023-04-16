@@ -6,6 +6,8 @@
 Click me to see all which programming language I spent the most time in.<br>
 # My Coding Activities
 ![alt text](https://wakatime.com/share/@Nytri/277dd6c0-6118-460e-af0a-72b548ab17b0.png)
+![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)
+
 
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri)](https://wakatime.com/@Nytri)
 
