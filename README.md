@@ -5,7 +5,8 @@
 - 📫 How to reach me? You can contact me through my email llTheBlankll@gmail.com or nytriee@gmail.com<br>
 Click me to see all which programming language I spent the most time in.<br>
 # TryHackMe User
-![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)
+![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)  
+View my profile https://tryhackme.com/p/llSorall  
 # My Coding Activities
 ![alt text](https://wakatime.com/share/@Nytri/277dd6c0-6118-460e-af0a-72b548ab17b0.png)
 [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri)](https://wakatime.com/@Nytri)
