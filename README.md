@@ -17,10 +17,10 @@
 - 💞️ Open to collaboration on projects involving Java, Spring Boot, Python, or web development in general.
 - 📫 You can reach me via email at llTheBlankll@gmail.com or nytriee@gmail.com.
 <br>
-# TryHackMe User
-![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)  
 
-View my profile https://tryhackme.com/p/llSorall  
+# TryHackMe User
+[![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+
 # My Coding Activities
 <div style="display: flex; flex-direction: column;" align="center">
   
