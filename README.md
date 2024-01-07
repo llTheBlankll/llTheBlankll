@@ -14,7 +14,7 @@
 - 👀 Currently interested in web development and exploring REST API development with Spring Boot.
 - 🌱 Learning Angular, Java, JavaScript, and TypeScript to enhance my skill set.
 - 💞️ Open to collaboration on projects involving Java, Spring Boot, Python, or web development in general.
-- 📫 You can reach me via email at llTheBlankll@gmail.com or nytriee@gmail.com.
+- 📫 You can reach me via email at llTheBlankll@gmail.com, nytriee@gmail.com, or vbatecan@gmail.com.
 <br>
 
 # TryHackMe User
