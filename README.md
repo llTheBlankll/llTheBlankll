@@ -7,8 +7,7 @@
 
 <div align="center">
 
-[![codeium profile](https://codeium.com/profile/neltri/card.png)](https://codeium.com/profile/neltri)
-
+[![codeium profile updated](https://codeium.com/profile/neltri/card.png)](https://codeium.com/profile/neltri)
 
 </div>
 
