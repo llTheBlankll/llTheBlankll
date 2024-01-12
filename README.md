@@ -1,8 +1,6 @@
+<div align="center">
 
-
-<div align="right">
-
-![](https://komarev.com/ghpvc/?username=llTheBlankll)
+  ![](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Vince%20Angelo%20Batecan&desc=A%20passionate%20programmer%20in%20the%20Philippines&fontColor=FFFFFF&animation=twinkling&stroke=864AF9&descAlignY=60&strokeWidth=1.3&fontAlignY=40&descSize=24&textBg=false&section=header)
 
 </div>
 
@@ -16,19 +14,24 @@
 
 [![autocomplete](https://codeium.com/badges/user/neltri/autocomplete)](https://codeium.com/profile/neltri)
 [![streak](https://codeium.com/badges/v2/user/neltri/streak)](https://codeium.com/profile/neltri)
+![](https://komarev.com/ghpvc/?username=llTheBlankll)
 
 </div>
 
-
 <div align="center">
 
-[![codeium profile](https://codeium.com/profile/neltri/card.png)](https://codeium.com/profile/neltri)
-
+  # Let's connect and have a chat! 💬  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Nytriii)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llTheBlankll@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the_vinciegelo/)
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:llTheBlankll@outlook.ph)
+  <br>
+  <br>
 </div>
 
 <div align="center">
   
-  # ⚒️ Frameworks ⚒️
+  ### ⚒️ Frameworks ⚒️
   <br>
   <br>
 
@@ -46,7 +49,7 @@
 
 <div align="center">
 
-  # 🔨 Tools 🔨
+  ### 🔨 Tools 🔨
 
   ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
   ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
@@ -78,7 +81,7 @@
 
 <div align="center">
 
-  # 👨🏻‍💻 Programming Languages and Databases
+  ### 👨🏻‍💻 Programming Languages and Databases 👨🏻‍💻
   <br>
   <br>
 
@@ -104,7 +107,7 @@
 
 <div align="center">
 
-  # ⚙️ Operating Systems ⚙️
+  ### ⚙️ Operating Systems ⚙️
   <br>
   <br>
   
@@ -131,62 +134,28 @@
 
 <div align="center">
 
-  # 🖥️ ML/DL
-  <br>
-  <br>
-  
-  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-
-  <br>
-  <br>
-
-</div>
-
-<div align="center">
-
-  # 🕓 Version Control
+  ### 🕓 Version Control 🕓
 
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llTheBlankll)
 
 </div>
 
-# ⚡ Stats ⚡
-
-<div align="left">
-
-  # 🧠 Additional Skills
-
-  👀 Currently interested in web development and exploring REST API development with Spring Boot.  
-  🌱 Learning Angular, Java, JavaScript, and TypeScript to enhance my skill set.  
-  💞️ Open to collaboration on projects involving Java, Spring Boot, Python, or web development in general.  
-  📫 You can reach me via email at llTheBlankll@gmail.com, nytriee@gmail.com, or vbatecan@gmail.com. You can also use the links down below to contact me.  
-  <br>
-</div>
-
 <div align="center">
   
-  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Nytriii)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llTheBlankll@gmail.com)
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the_vinciegelo/)
-  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:llTheBlankll@outlook.ph)
-</div>
-
-<div align="center">
-  
-  # TryHackMe User
+  # Information Security 
   [![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+  [![](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/214160)
+  [![](https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)]()
+  [![](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
+  [![](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()
 
 </div>
 
-# My Coding Activities
-<div style="display: flex; flex-direction: column;" align="center">
-  
-  ![alt text](https://wakatime.com/share/@Nytri/277dd6c0-6118-460e-af0a-72b548ab17b0.png)
+## My Coding Activities
+<div align="center">
 
-  <br>
-  
-  [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri)](https://wakatime.com/@Nytri)
+
   
 </div>
 
