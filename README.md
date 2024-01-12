@@ -1,3 +1,17 @@
+
+
+<div align="right">
+
+![](https://komarev.com/ghpvc/?username=llTheBlankll)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=24&duration=1500&pause=500&repeat=false&color=86B6F6&background=42476900&center=true&vCenter=true&random=false&width=750&height=200&lines=Hi!+%F0%9F%91%8B;I'm+Vince+Angelo+Batecan;A+passionate+programmer+from+the+Philippines.+%F0%9F%92%BB;I+specialize+in+Java+and+Spring+Boot;building+robust+REST+API's;Contact+me+if+you+need+help!)](https://git.io/typing-svg)
+
+</div>
+
 <div align="center">
 
 [![autocomplete](https://codeium.com/badges/user/neltri/autocomplete)](https://codeium.com/profile/neltri)
@@ -5,20 +19,165 @@
 
 </div>
 
+
 <div align="center">
 
-
+[![codeium profile](https://codeium.com/profile/neltri/card.png)](https://codeium.com/profile/neltri)
 
 </div>
 
-- 👀 Currently interested in web development and exploring REST API development with Spring Boot.
-- 🌱 Learning Angular, Java, JavaScript, and TypeScript to enhance my skill set.
-- 💞️ Open to collaboration on projects involving Java, Spring Boot, Python, or web development in general.
-- 📫 You can reach me via email at llTheBlankll@gmail.com, nytriee@gmail.com, or vbatecan@gmail.com.
-<br>
+<div align="center">
+  
+  # ⚒️ Frameworks ⚒️
+  <br>
+  <br>
 
-# TryHackMe User
-[![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+  ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+  ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+  ![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
+  ![Thymeleaf](https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)
+  ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
+  ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+
+  <br>
+  <br>
+  
+</div>
+
+<div align="center">
+
+  # 🔨 Tools 🔨
+
+  ![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
+  ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+  ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
+  ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+  ![Replit](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)
+  <br>
+  ![Rider](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)
+  ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+  ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
+  <br>
+  ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+  ![CMake](https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)
+  ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+  ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
+  ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+  ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+  ![SonarLint](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)
+  <br>
+  ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+  ![TOR](https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)
+  ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
+
+  <br>
+  <br>
+  
+</div>
+
+<div align="center">
+
+  # 👨🏻‍💻 Programming Languages and Databases
+  <br>
+  <br>
+
+  ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
+  ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+  ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+  ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+  <br>
+  ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+  ![Postgresql](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white)
+  ![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+  
+
+  <br>
+  <br>
+
+</div>
+
+<div align="center">
+
+  # ⚙️ Operating Systems ⚙️
+  <br>
+  <br>
+  
+  ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+  ![Chrome OS](https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white)
+  ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
+  ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![MX Linux](https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white)
+  ![Pop!\_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+  <br>
+  ![Solus](https://img.shields.io/badge/Solus-%23f2f2f2.svg?style=for-the-badge&logo=solus&logoColor=5294E2)
+  ![Tails](https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white)
+  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+  ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+  ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white)
+  ![Zorin OS](https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white)
+
+  
+  <br>
+  <br>
+  
+</div>
+
+<div align="center">
+
+  # 🖥️ ML/DL
+  <br>
+  <br>
+  
+  ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+
+  <br>
+  <br>
+
+</div>
+
+<div align="center">
+
+  # 🕓 Version Control
+
+  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llTheBlankll)
+
+</div>
+
+# ⚡ Stats ⚡
+
+<div align="left">
+
+  # 🧠 Additional Skills
+
+  👀 Currently interested in web development and exploring REST API development with Spring Boot.  
+  🌱 Learning Angular, Java, JavaScript, and TypeScript to enhance my skill set.  
+  💞️ Open to collaboration on projects involving Java, Spring Boot, Python, or web development in general.  
+  📫 You can reach me via email at llTheBlankll@gmail.com, nytriee@gmail.com, or vbatecan@gmail.com. You can also use the links down below to contact me.  
+  <br>
+</div>
+
+<div align="center">
+  
+  [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/Nytriii)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:llTheBlankll@gmail.com)
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/the_vinciegelo/)
+  [![Outlook](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:llTheBlankll@outlook.ph)
+</div>
+
+<div align="center">
+  
+  # TryHackMe User
+  [![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+
+</div>
 
 # My Coding Activities
 <div style="display: flex; flex-direction: column;" align="center">
