@@ -6,7 +6,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=24&duration=1500&pause=500&repeat=false&color=86B6F6&background=42476900&center=true&vCenter=true&random=false&width=750&height=200&lines=Hi!+%F0%9F%91%8B;I'm+Vince+Angelo+Batecan;A+passionate+programmer+from+the+Philippines.+%F0%9F%92%BB;I+specialize+in+Java+and+Spring+Boot;building+robust+REST+API's;Contact+me+if+you+need+help!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Bungee+Spice&size=24&duration=1500&pause=500&color=86B6F6&background=42476900&center=true&vCenter=true&random=false&width=750&height=200&lines=Hi!+%F0%9F%91%8B;I'm+Vince+Angelo+Batecan;A+passionate+programmer+from+the+Philippines.+%F0%9F%92%BB;I+specialize+in+Java+and+Spring+Boot;building+robust+REST+API's;Contact+me+if+you+need+help!)](https://git.io/typing-svg)
 
 </div>
 
