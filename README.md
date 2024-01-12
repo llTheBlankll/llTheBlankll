@@ -139,23 +139,45 @@
   ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
   [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/llTheBlankll)
 
+  <br>
+  <br>
 </div>
 
 <div align="center">
   
-  # Information Security 
+  # Information Security
+</div>
+
+<div align="center">
+    
   [![TryHackMe User](https://tryhackme-badges.s3.amazonaws.com/llSorall.png)](https://tryhackme.com/p/llSorall)
+</div>
+
+<div align="center">
+
+  
   [![](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white)](https://app.hackthebox.com/profile/214160)
   [![](https://img.shields.io/badge/-Spring%20Security-%236DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)]()
   [![](https://img.shields.io/badge/-Wireshark-%231679A7?style=for-the-badge&logo=wireshark&logoColor=white)]()
   [![](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()
-
+  <br>
+  <br>
 </div>
 
-## My Coding Activities
+<hr>
+
+### My Coding Activities
 <div align="center">
 
+  [![llTheBlankll's GitHub stats](https://github-readme-stats.vercel.app/api?username=llTheBlankll&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llTheBlankll&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=llTheBlankll&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+</div>
 
+## WakaTime Stats
+<div align="center">
+
+  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
