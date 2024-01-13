@@ -169,9 +169,9 @@
 ### My Coding Activities
 <div align="center">
 
-  [![llTheBlankll's GitHub stats](https://github-readme-stats.vercel.app/api?username=llTheBlankll&show=prs_merged,prs_merged_percentage&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llTheBlankll&show_icons=true&theme=tokyonight&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Streak](https://streak-stats.demolab.com?user=llTheBlankll&theme=catppuccin-mocha&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
+  [![llTheBlankll's GitHub stats](https://github-readme-stats.vercel.app/api?username=llTheBlankll&show=prs_merged,prs_merged_percentage&show_icons=true&theme=default)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llTheBlankll&show_icons=true&theme=default&size_weight=0.5&count_weight=0.5&hide=javascript,html,css&langs_count=6&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=llTheBlankll&theme=transparent&date_format=M%20j%5B%2C%20Y%5D&mode=weekly)](https://git.io/streak-stats)
 </div>
 
 ## WakaTime Stats
