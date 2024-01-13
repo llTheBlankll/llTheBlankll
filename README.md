@@ -1,6 +1,6 @@
 <div align="center">
 
-  ![](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Vince%20Angelo%20Batecan&desc=A%20passionate%20programmer%20in%20the%20Philippines&fontColor=FFFFFF&animation=twinkling&stroke=864AF9&descAlignY=60&strokeWidth=1.3&fontAlignY=40&descSize=24&textBg=false&section=header)
+  ![](https://capsule-render.vercel.app/api?type=waving&height=400&color=gradient&text=Vince%20Angelo%20Batecan&desc=A%20passionate%20programmer%20from%20the%20Philippines&fontColor=FFFFFF&animation=twinkling&stroke=864AF9&descAlignY=60&strokeWidth=1.3&fontAlignY=40&descSize=24&textBg=false&section=header)
 
 </div>
 
@@ -162,6 +162,32 @@
   [![](https://img.shields.io/badge/-Kali%20Linux-%23557C94?style=for-the-badge&logo=kalilinux&logoColor=white)]()
   <br>
   <br>
+</div>
+
+<div align="center">
+
+  # About me
+</div>
+
+
+<div align="justify">
+  
+  Hello, my name is **Vince Angelo Batecan**, and I am seventeen years old and from the Philippines. Positioned as a bridge between innocent enthusiasm and a determined approach to digital artistry, I am fascinated by a deep desire to build solid and creative solutions to the ever-changing dimension of technology.
+  
+  ## Professional Pursuits
+  I am adept in various languages of programming within the scope of **Java**, **Python**, **JavaScripts**, **CSharp (C#)**, **TypeScript**, **PHP**, and **C++**. My exploration also includes frontend development, what I am focusing on right now is to use Angular and create user-friendly interfaces.
+  
+  ## Commitment to Continuous Learning
+  I have been relentless in gaining knowledge on Angular, Java, JavaScript and TypeScript as some of my ongoing studies. A new day opens up the way for me to perfect my knowledge and abilities in these languages, allowing a constant period of development.
+  
+  ## Holistic Approach
+  For me, programming is not just the process of building code; it includes a complete journey. In addition to good coding skills, I have an extensive knowledge of Agile methodologies and version control through Git. In my stance, the need for collaboration is emphasized because collaborative efforts have significant roles and essential contributions in nurturing innovation.
+  
+  ## Open to Collaborations
+  
+  Expressing a willingness to collaborate on projects utilizing *Java*, *Spring Boot*, *Python*, or any aspect of web development, I value the strength of collective creativity. I firmly believe that cooperative results are the most valuable in the ever-evolving landscape of technology.
+  
+  Feel free to connect, discuss, and explore the vast possibilities of collaboration! 🚀
 </div>
 
 <hr>
