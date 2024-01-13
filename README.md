@@ -183,12 +183,32 @@
   ## Holistic Approach
   For me, programming is not just the process of building code; it includes a complete journey. In addition to good coding skills, I have an extensive knowledge of Agile methodologies and version control through Git. In my stance, the need for collaboration is emphasized because collaborative efforts have significant roles and essential contributions in nurturing innovation.
   
+</div>
+
+<div align="center">
+
+  # Professional Profile: Cybersecurity Enthusiast
+</div>
+
+<div align="justify">
+  Cybersecurity Enthusiast with substantial background through self-guided learning and real life encounters. As a hobbyist, I have developed deep insights into principles and practices of cybersecurity without being formally employed in the field. In my expertise, I am able to work in different areas of cybersecurity that include secure development, encryption technologies , monitoring and incident response.
+  
+  ## Key Skills
+  
+  - **Secure Development:** Writing code that is secure code, implementing security features and apply industry best practices even when hobbyist.
+  
+  - **Encryption Technologies:** Master of installing data encryption algorithms, both during transfer and at rest comprehensive confidentiality.
+  
+  - **Monitoring and Incident Response:** Constantly observes systems for suspicious activities, invokes incident response plans and promptly counteracts security incidents.
+  
+  - **Compliance Awareness:** Familiar with industry standards and regulations, ensuring a basic understanding of cybersecurity best practices.
+</div>
+
   ## Open to Collaborations
   
   Expressing a willingness to collaborate on projects utilizing *Java*, *Spring Boot*, *Python*, or any aspect of web development, I value the strength of collective creativity. I firmly believe that cooperative results are the most valuable in the ever-evolving landscape of technology.
   
   Feel free to connect, discuss, and explore the vast possibilities of collaboration! 🚀
-</div>
 
 <hr>
 
