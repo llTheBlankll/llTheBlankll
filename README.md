@@ -224,8 +224,18 @@
 ## WakaTime Stats
 <div align="center">
 
-  [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nytri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  
+<h3>My Time Table</h3>
+
+<!--START_SECTION:SHOW_COMMIT-->
+
+<!--END_SECTION:SHOW_COMMIT-->
+
+<h3>My Productivity</h3>
+
+<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
+
+<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
+
 </div>
 
 <div align="center">
