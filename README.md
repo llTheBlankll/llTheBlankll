@@ -222,21 +222,11 @@
 </div>
 
 ## WakaTime Stats
-<div align="center">
 
-<h3>My Time Table</h3>
+<!--START_SECTION:waka-->
 
-<!--START_SECTION:SHOW_COMMIT-->
+<!--END_SECTION:waka-->
 
-<!--END_SECTION:SHOW_COMMIT-->
-
-<h3>My Productivity</h3>
-
-<!--START_SECTION:SHOW_DAYS_OF_WEEK-->
-
-<!--END_SECTION:SHOW_DAYS_OF_WEEK-->
-
-</div>
 
 <div align="center">
   
