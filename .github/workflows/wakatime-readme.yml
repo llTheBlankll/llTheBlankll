@@ -17,3 +17,5 @@ jobs:
           SHOW_OS: "True"
           SHOW_COMMIT: "True"
           SHOW_LANGUAGE: "True"
+          SHOW_PROFILE_VIEWS: "False"
+          SHOW_EDITORS: "True"
