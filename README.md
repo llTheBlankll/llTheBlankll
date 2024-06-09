@@ -13,7 +13,6 @@
 <div align="center">
 
 [![autocomplete](https://codeium.com/badges/user/neltri/autocomplete)](https://codeium.com/profile/neltri)
-[![streak](https://codeium.com/badges/v2/user/neltri/streak)](https://codeium.com/profile/neltri)
 ![](https://komarev.com/ghpvc/?username=llTheBlankll&style=flat-square)
 
 </div>
