@@ -223,13 +223,11 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C918%20hrs%2030%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C925%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 99.6 kB Used in GitHub's Storage 
- > 
-> 🏆 752 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -302,7 +300,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/llTheBlankll/llTheBlankll/main/assets/bar_graph.png)
 
 
- Last Updated on 19/08/2024 18:42:22 UTC
+ Last Updated on 20/08/2024 18:42:07 UTC
 <!--END_SECTION:waka-->
 
 
