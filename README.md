@@ -223,13 +223,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C227%20hrs%2052%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 105.3 kB Used in GitHub's Storage 
- > 
-> 🏆 939 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -254,7 +250,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/llTheBlankll/llTheBlankll/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2024 18:42:36 UTC
+ Last Updated on 10/11/2024 18:43:20 UTC
 <!--END_SECTION:waka-->
 
 
