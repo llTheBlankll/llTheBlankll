@@ -229,8 +229,6 @@
 
 > 📦 105.4 kB Used in GitHub's Storage 
  > 
-> 🏆 942 Contributions in the Year 2024
- > 
 > 💼 Opted to Hire
  > 
 > 📜 50 Public Repositories 
@@ -301,7 +299,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/llTheBlankll/llTheBlankll/main/assets/bar_graph.png)
 
 
- Last Updated on 12/11/2024 18:46:13 UTC
+ Last Updated on 13/11/2024 18:45:39 UTC
 <!--END_SECTION:waka-->
 
 
