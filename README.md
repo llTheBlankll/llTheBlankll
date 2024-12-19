@@ -172,15 +172,15 @@
 
 <div align="justify">
   
-  Hello, my name is **Vince Angelo Batecan**, and I am seventeen years old and from the Philippines. Positioned as a bridge between innocent enthusiasm and a determined approach to digital artistry, I am fascinated by a deep desire to build solid and creative solutions to the ever-changing dimension of technology.
+  Hello, my name is **Vince Angelo Batecan**, and I am eighteen years old and from the Philippines. Positioned as a bridge between innocent enthusiasm and a determined approach to digital artistry, I am fascinated by a deep desire to build solid and creative solutions to the ever-changing dimension of technology.
   
   ## Professional Pursuits
-  I am adept in various languages of programming within the scope of **Java**, **Python**, **JavaScripts**, **CSharp (C#)**, **TypeScript**, **PHP**, and **C++**. My exploration also includes frontend development, what I am focusing on right now is to use Angular and create user-friendly interfaces.
+  I have wide knowledge in various programming language within the scope of **Java**, **Python**, **JavaScripts**, **CSharp (C#)**, **TypeScript**, **PHP**, and **C++**. My experience also encompasses frontend development. What I am focusing on right now is to use Angular and create user-friendly interfaces paired with Quarkus or Spring Boot.
   
   ## Commitment to Continuous Learning
-  I have been relentless in gaining knowledge on Angular, Java, JavaScript and TypeScript as some of my ongoing studies. A new day opens up the way for me to perfect my knowledge and abilities in these languages, allowing a constant period of development.
+  I am gaining knowledge on Angular, Java, JavaScript and TypeScript as some of my ongoing studies. Currently, I am learning on how to use GraphQL as it is necessary and widely used technology across the field of web development.
   
-  ## Holistic Approach
+  ## Approach
   For me, programming is not just the process of building code; it includes a complete journey. In addition to good coding skills, I have an extensive knowledge of Agile methodologies and version control through Git. In my stance, the need for collaboration is emphasized because collaborative efforts have significant roles and essential contributions in nurturing innovation.
   
 </div>
@@ -191,13 +191,11 @@
 </div>
 
 <div align="justify">
-  Cybersecurity Enthusiast with substantial background through self-guided learning and real life encounters. As a hobbyist, I have developed deep insights into principles and practices of cybersecurity without being formally employed in the field. In my expertise, I am able to work in different areas of cybersecurity that include secure development, encryption technologies , monitoring and incident response.
+  Cybersecurity Enthusiast with substantial background through self-guided learning and real life encounters. As a hobbyist, I have developed some insights into principles and practices of cybersecurity without being formally employed in the field. In my expertise, I am able to work in different areas of cybersecurity that include secure development, monitoring and incident response. I might lack experience in certain areas because I do not have any formal education and guidance. 
   
   ## Key Skills
   
   - **Secure Development:** Writing code that is secure code, implementing security features and apply industry best practices even when hobbyist.
-  
-  - **Encryption Technologies:** Master of installing data encryption algorithms, both during transfer and at rest comprehensive confidentiality.
   
   - **Monitoring and Incident Response:** Constantly observes systems for suspicious activities, invokes incident response plans and promptly counteracts security incidents.
   
@@ -223,11 +221,13 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C265%20hrs%2011%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C261%20hrs%2020%20mins-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 113.8 kB Used in GitHub's Storage 
+ > 
+> 🏆 965 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -235,6 +235,56 @@
  > 
 > 🔑 20 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1662 commits        ██████░░░░░░░░░░░░░░░░░░░   25.26 % 
+🌆 Daytime                2385 commits        █████████░░░░░░░░░░░░░░░░   36.25 % 
+🌃 Evening                2405 commits        █████████░░░░░░░░░░░░░░░░   36.55 % 
+🌙 Night                  128 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   721 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.96 % 
+Tuesday                  1016 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.44 % 
+Wednesday                761 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
+Thursday                 696 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+Friday                   814 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Saturday                 1716 commits        ███████░░░░░░░░░░░░░░░░░░   26.08 % 
+Sunday                   856 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.01 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Python                   3 hrs 1 min         ████████████████░░░░░░░░░   62.62 % 
+Java                     1 hr 9 mins         ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+C++                      17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+GitIgnore file           11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+SQL                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+
+🔥 Editors: 
+Cursor                   2 hrs 51 mins       ███████████████░░░░░░░░░░   59.19 % 
+PyCharm                  1 hr 40 mins        █████████░░░░░░░░░░░░░░░░   34.79 % 
+IntelliJ IDEA            17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.02 % 
+
+🐱‍💻 Projects: 
+money-talker             2 hrs 3 mins        ███████████░░░░░░░░░░░░░░   42.61 % 
+ams_quarkus              1 hr 13 mins        ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
+school-contribution-syste1 hr 12 mins        ██████░░░░░░░░░░░░░░░░░░░   24.98 % 
+SAMS_PR_ESP32            17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+attendance-management-sys3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.29 % 
+
+💻 Operating System: 
+Windows                  3 hrs 50 mins       ████████████████████░░░░░   79.48 % 
+WSL                      59 mins             █████░░░░░░░░░░░░░░░░░░░░   20.52 % 
+```
+
 **I Mostly Code in Java** 
 
 ```text
@@ -252,7 +302,7 @@ C                        1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/llTheBlankll/llTheBlankll/main/assets/bar_graph.png)
 
 
- Last Updated on 18/12/2024 18:48:42 UTC
+ Last Updated on 17/12/2024 18:51:23 UTC
 <!--END_SECTION:waka-->
 
 
