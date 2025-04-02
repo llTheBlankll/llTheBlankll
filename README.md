@@ -221,17 +221,17 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C495%20hrs%2025%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 📦 117.4 kB Used in GitHub's Storage 
+> 📦 117.5 kB Used in GitHub's Storage 
+ > 
+> 🏆 265 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
-> 📜 50 Public Repositories 
+> 📜 49 Public Repositories 
  > 
-> 🔑 22 Private Repositories 
+> 🔑 23 Private Repositories 
  > 
 **I Mostly Code in Java** 
 
@@ -250,7 +250,7 @@ PHP                      3 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/llTheBlankll/llTheBlankll/main/assets/bar_graph.png)
 
 
- Last Updated on 11/03/2025 18:48:42 UTC
+ Last Updated on 02/04/2025 03:38:08 UTC
 <!--END_SECTION:waka-->
 
 
