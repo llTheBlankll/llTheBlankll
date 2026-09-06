@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C951%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C960%20hrs%2044%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-612%20hrs%2018%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-621%20hrs%2054%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3,451 Contributions in the Year 2026
+> 🏆 3,460 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -263,42 +263,43 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               11 hrs 17 mins      ████████░░░░░░░░░░░░░░░░░   32.54 % 
-C#                       6 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.73 % 
-Other                    6 hrs 21 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-JSON                     3 hrs 23 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.78 % 
-Unity3D Asset            1 hr 50 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.31 % 
+TypeScript               9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
+Other                    7 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
+Unity3D Asset            6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+C#                       5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
+JSON                     5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
 
 🔥 Editors: 
-Antigravity CLI          23 hrs 4 mins       █████████████████░░░░░░░░   66.57 % 
-VS Code                  8 hrs 54 mins       ██████░░░░░░░░░░░░░░░░░░░   25.69 % 
-Claude Code              2 hrs 40 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Codex CLI                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Antigravity CLI          24 hrs              ███████████████░░░░░░░░░░   59.70 % 
+VS Code                  10 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.77 % 
+Claude Code              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
+Codex CLI                2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
+Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 
 🐱‍💻 Projects: 
-Pikash                   16 hrs 35 mins      ████████████░░░░░░░░░░░░░   47.85 % 
-CIT2101_2D               9 hrs               ██████░░░░░░░░░░░░░░░░░░░   25.98 % 
-StoryWeaver              5 hrs 37 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.22 % 
-SalesCommission          2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
-ams-web                  30 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
+Pikash                   15 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.51 % 
+CIT2101_2D               13 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
+StoryWeaver              5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
+SalesCommission          2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+planet_defense           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
 
 💻 Operating System: 
-Linux                    34 hrs 21 mins      █████████████████████████   99.07 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Linux                    39 hrs 53 mins      █████████████████████████   99.20 % 
+Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 31 hrs 14 mins (90.08%)
+⏱ AI Coding Time: 36 hrs 12 mins (90.05%)
 
-✍️ 1,096 lines written by AI, 96 lines written by hand (91.95% AI-written)
+✍️ 1,096 lines written by AI, 119 lines written by hand (90.21% AI-written)
 
-🔤 7,360,167 Input Tokens, 169,900 Output Tokens
+🔤 8,362,032 Input Tokens, 239,239 Output Tokens
 
-💵 $24.45 Estimated AI Cost This Week
+💵 $44.85 Estimated AI Cost This Week
 
-🧠 125 AI Sessions, 510 AI Prompts
+🧠 155 AI Sessions, 579 AI Prompts
 
 Gemini                   1,086 lines         ████████████████████░░░░░   78.81 % 
 Opus                     216 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
@@ -306,10 +307,10 @@ GPT                      76 lines            █░░░░░░░░░░�
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 91.95% of written lines came from AI
-📄 Detailed Prompter — average 751 characters per prompt
+🤖 AI-Driven — 90.21% of written lines came from AI
+📄 Detailed Prompter — average 901 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 14.78% of changed lines were hand-edited
+🔍 Hands-On Reviewer — 73.49% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -329,7 +330,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 05/09/2026 20:35:05 UTC
+ Last Updated on 06/09/2026 20:38:27 UTC
 <!--END_SECTION:waka-->
 
 
