@@ -220,15 +220,15 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C960%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C966%20hrs%2030%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-621%20hrs%2054%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-628%20hrs%2014%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
 > 📦 1.4 MB Used in GitHub's Storage 
  > 
-> 🏆 3,460 Contributions in the Year 2026
+> 🏆 3,492 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
@@ -236,83 +236,6 @@
  > 
 > 🔑 49 Private Repositories 
  > 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                1897 commits        ██████░░░░░░░░░░░░░░░░░░░   24.73 % 
-🌆 Daytime                2888 commits        █████████░░░░░░░░░░░░░░░░   37.65 % 
-🌃 Evening                2739 commits        █████████░░░░░░░░░░░░░░░░   35.71 % 
-🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
-```
-📅 **I'm Most Productive on Saturday** 
-
-```text
-Monday                   723 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
-Tuesday                  950 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.18 % 
-Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.89 % 
-Saturday                 1777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.17 % 
-Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.97 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Manila
-
-💬 Programming Languages: 
-TypeScript               9 hrs 42 mins       ██████░░░░░░░░░░░░░░░░░░░   24.15 % 
-Other                    7 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-Unity3D Asset            6 hrs 43 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-C#                       5 hrs 49 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.50 % 
-JSON                     5 hrs 15 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.09 % 
-
-🔥 Editors: 
-Antigravity CLI          24 hrs              ███████████████░░░░░░░░░░   59.70 % 
-VS Code                  10 hrs 45 mins      ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Claude Code              2 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.79 % 
-Codex CLI                2 hrs 17 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.68 % 
-Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-
-🐱‍💻 Projects: 
-Pikash                   15 hrs 53 mins      ██████████░░░░░░░░░░░░░░░   39.51 % 
-CIT2101_2D               13 hrs 34 mins      ████████░░░░░░░░░░░░░░░░░   33.76 % 
-StoryWeaver              5 hrs 37 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.99 % 
-SalesCommission          2 hrs 24 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-planet_defense           1 hr 1 min          █░░░░░░░░░░░░░░░░░░░░░░░░   02.54 % 
-
-💻 Operating System: 
-Linux                    39 hrs 53 mins      █████████████████████████   99.20 % 
-Windows                  19 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.80 % 
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 36 hrs 12 mins (90.05%)
-
-✍️ 1,096 lines written by AI, 119 lines written by hand (90.21% AI-written)
-
-🔤 8,362,032 Input Tokens, 239,239 Output Tokens
-
-💵 $44.85 Estimated AI Cost This Week
-
-🧠 155 AI Sessions, 579 AI Prompts
-
-Gemini                   1,086 lines         ████████████████████░░░░░   78.81 % 
-Opus                     216 lines           ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
-GPT                      76 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   05.52 % 
-Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 90.21% of written lines came from AI
-📄 Detailed Prompter — average 901 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🔍 Hands-On Reviewer — 73.49% of changed lines were hand-edited
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -330,7 +253,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 06/09/2026 20:38:27 UTC
+ Last Updated on 07/09/2026 21:41:32 UTC
 <!--END_SECTION:waka-->
 
 
