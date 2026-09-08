@@ -220,30 +220,106 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C966%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C975%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-628%20hrs%2014%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-637%20hrs%2023%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 1.4 MB Used in GitHub's Storage 
+> 📦 1.3 MB Used in GitHub's Storage 
  > 
-> 🏆 3,492 Contributions in the Year 2026
+> 🏆 3,511 Contributions in the Year 2026
  > 
 > 💼 Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 71 Public Repositories 
  > 
-> 🔑 49 Private Repositories 
+> 🔑 48 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.71 % 
+🌆 Daytime                2899 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2756 commits        █████████░░░░░░░░░░░░░░░░   35.76 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
+```
+📅 **I'm Most Productive on Saturday** 
+
+```text
+Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                1011 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
+Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 1777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Manila
+
+💬 Programming Languages: 
+Other                    15 hrs 29 mins      ███████░░░░░░░░░░░░░░░░░░   29.13 % 
+C#                       10 hrs 27 mins      █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Unity3D Asset            8 hrs 35 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+TypeScript               6 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+JSON                     5 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
+
+🔥 Editors: 
+Antigravity CLI          32 hrs 18 mins      ███████████████░░░░░░░░░░   60.78 % 
+VS Code                  11 hrs 54 mins      ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Codex CLI                8 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.93 % 
+Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+
+🐱‍💻 Projects: 
+CIT2101_2D               19 hrs 34 mins      █████████░░░░░░░░░░░░░░░░   36.81 % 
+Pikash                   14 hrs 54 mins      ███████░░░░░░░░░░░░░░░░░░   28.04 % 
+ams_fastapi              3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+ThreadDeck               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+ams-web                  2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+
+💻 Operating System: 
+Linux                    52 hrs 48 mins      █████████████████████████   99.33 % 
+Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 48 hrs 56 mins (92.07%)
+
+✍️ 6,791 lines written by AI, 141 lines written by hand (97.97% AI-written)
+
+🔤 5,927,538 Input Tokens, 739,353 Output Tokens
+
+💵 $195.47 Estimated AI Cost This Week
+
+🧠 214 AI Sessions, 709 AI Prompts
+
+GPT                      6,797 lines         ████████████████████████░   95.12 % 
+Codex-Cli                349 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+Gemini                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 97.97% of written lines came from AI
+📄 Detailed Prompter — average 996 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 34.98% of changed lines were hand-edited
+```
+
 **I Mostly Code in Python** 
 
 ```text
-Python                   31 repos            ███████░░░░░░░░░░░░░░░░░░   28.70 % 
-TypeScript               28 repos            ██████░░░░░░░░░░░░░░░░░░░   25.93 % 
-Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
-C#                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-Wolfram Language         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.93 % 
+Python                   31 repos            ███████░░░░░░░░░░░░░░░░░░   29.25 % 
+TypeScript               26 repos            ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Java                     22 repos            █████░░░░░░░░░░░░░░░░░░░░   20.75 % 
+C#                       6 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
+Wolfram Language         1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.94 % 
 ```
 
 
@@ -253,7 +329,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 07/09/2026 21:41:32 UTC
+ Last Updated on 08/09/2026 21:21:09 UTC
 <!--END_SECTION:waka-->
 
 
