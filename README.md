@@ -220,9 +220,9 @@
 ## WakaTime Stats
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C994%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C995%20hrs%2020%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-660%20hrs%2058%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-663%20hrs%2034%20mins-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -239,21 +239,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                1683 commits        ██████░░░░░░░░░░░░░░░░░░░   24.22 % 
-🌆 Daytime                2655 commits        ██████████░░░░░░░░░░░░░░░   38.21 % 
-🌃 Evening                2472 commits        █████████░░░░░░░░░░░░░░░░   35.58 % 
-🌙 Night                  138 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+🌞 Morning                1904 commits        ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
+🌆 Daytime                2899 commits        █████████░░░░░░░░░░░░░░░░   37.62 % 
+🌃 Evening                2757 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌙 Night                  147 commits         ░░░░░░░░░░░░░░░░░░░░░░░░░   01.91 % 
 ```
 📅 **I'm Most Productive on Saturday** 
 
 ```text
-Monday                   681 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
-Tuesday                  843 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.13 % 
-Wednesday                924 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 983 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-Friday                   900 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.95 % 
-Saturday                 1546 commits        ██████░░░░░░░░░░░░░░░░░░░   22.25 % 
-Sunday                   1071 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.41 % 
+Monday                   755 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.80 % 
+Tuesday                  953 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.37 % 
+Wednesday                1012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.13 % 
+Thursday                 1073 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.92 % 
+Friday                   989 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.83 % 
+Saturday                 1777 commits        ██████░░░░░░░░░░░░░░░░░░░   23.06 % 
+Sunday                   1148 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.90 % 
 ```
 
 
@@ -263,35 +263,35 @@ Sunday                   1071 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               19 hrs 14 mins      ███████░░░░░░░░░░░░░░░░░░   28.80 % 
-Other                    19 hrs 1 min        ███████░░░░░░░░░░░░░░░░░░   28.46 % 
-Unity3D Asset            8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.32 % 
-C#                       8 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.10 % 
-Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
+TypeScript               19 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.44 % 
+Other                    17 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Unity3D Asset            8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
+C#                       7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
 
 🔥 Editors: 
-Antigravity CLI          38 hrs 31 mins      ██████████████░░░░░░░░░░░   57.64 % 
-Codex CLI                18 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   27.46 % 
-VS Code                  9 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
-Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Antigravity CLI          36 hrs 24 mins      ██████████████░░░░░░░░░░░   56.52 % 
+Codex CLI                18 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.49 % 
+VS Code                  9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
+Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 
 🐱‍💻 Projects: 
-Pikash                   23 hrs 12 mins      █████████░░░░░░░░░░░░░░░░   34.71 % 
-CIT2101_2D               20 hrs 41 mins      ████████░░░░░░░░░░░░░░░░░   30.95 % 
-StoryWeaver              9 hrs 4 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.58 % 
-ams_fastapi              3 hrs 59 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.98 % 
-ThreadDeck               3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
+Pikash                   22 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   34.91 % 
+CIT2101_2D               18 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
+StoryWeaver              9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
+ams_fastapi              3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
+ThreadDeck               3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 💻 Operating System: 
-Linux                    66 hrs 29 mins      █████████████████████████   99.47 % 
-Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+Linux                    64 hrs 4 mins       █████████████████████████   99.45 % 
+Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 65 hrs (97.25%)
+⏱ AI Coding Time: 62 hrs 35 mins (97.15%)
 
 ✍️ 18,618 lines written by AI, 78 lines written by hand (99.58% AI-written)
 
@@ -299,7 +299,7 @@ Windows                  21 mins             ░░░░░░░░░░░�
 
 💵 $383.90 Estimated AI Cost This Week
 
-🧠 240 AI Sessions, 897 AI Prompts
+🧠 234 AI Sessions, 865 AI Prompts
 
 GPT                      19,045 lines        █████████████████████████   98.20 % 
 Codex-Cli                349 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
@@ -307,7 +307,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.58% of written lines came from AI
-📄 Detailed Prompter — average 1,201 characters per prompt
+📄 Detailed Prompter — average 1,236 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 15.82% of changed lines were hand-edited
 ```
@@ -329,7 +329,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 10/09/2026 21:05:13 UTC
+ Last Updated on 11/09/2026 21:09:43 UTC
 <!--END_SECTION:waka-->
 
 
