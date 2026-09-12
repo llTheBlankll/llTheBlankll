@@ -263,35 +263,35 @@ Sunday                   1148 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Manila
 
 💬 Programming Languages: 
-TypeScript               19 hrs 36 mins      ████████░░░░░░░░░░░░░░░░░   30.44 % 
-Other                    17 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Unity3D Asset            8 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.82 % 
-C#                       7 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.52 % 
+TypeScript               19 hrs 36 mins      █████████░░░░░░░░░░░░░░░░   37.23 % 
+Other                    8 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.07 % 
+Unity3D Asset            8 hrs 21 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+C#                       5 hrs 51 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.14 % 
+Markdown                 4 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
 
 🔥 Editors: 
-Antigravity CLI          36 hrs 24 mins      ██████████████░░░░░░░░░░░   56.52 % 
-Codex CLI                18 hrs 21 mins      ███████░░░░░░░░░░░░░░░░░░   28.49 % 
-VS Code                  9 hrs 10 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.24 % 
-Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Antigravity CLI          26 hrs 16 mins      ████████████░░░░░░░░░░░░░   49.87 % 
+Codex CLI                18 hrs 21 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
+VS Code                  7 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+Antigravity IDE          21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Antigravity Desktop      4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 
 🐱‍💻 Projects: 
-Pikash                   22 hrs 29 mins      █████████░░░░░░░░░░░░░░░░   34.91 % 
-CIT2101_2D               18 hrs 49 mins      ███████░░░░░░░░░░░░░░░░░░   29.22 % 
-StoryWeaver              9 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.09 % 
-ams_fastapi              3 hrs 59 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
-ThreadDeck               3 hrs 41 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+Pikash                   20 hrs 26 mins      ██████████░░░░░░░░░░░░░░░   38.80 % 
+CIT2101_2D               17 hrs 7 mins       ████████░░░░░░░░░░░░░░░░░   32.52 % 
+StoryWeaver              7 hrs 22 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.00 % 
+ThreadDeck               3 hrs 41 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+vbatecan                 1 hr 10 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
 
 💻 Operating System: 
-Linux                    64 hrs 4 mins       █████████████████████████   99.45 % 
-Windows                  21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
+Linux                    52 hrs 38 mins      █████████████████████████   99.94 % 
+Windows                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 62 hrs 35 mins (97.15%)
+⏱ AI Coding Time: 51 hrs 16 mins (97.34%)
 
 ✍️ 18,618 lines written by AI, 78 lines written by hand (99.58% AI-written)
 
@@ -299,7 +299,7 @@ Windows                  21 mins             ░░░░░░░░░░░�
 
 💵 $383.90 Estimated AI Cost This Week
 
-🧠 234 AI Sessions, 865 AI Prompts
+🧠 179 AI Sessions, 729 AI Prompts
 
 GPT                      19,045 lines        █████████████████████████   98.20 % 
 Codex-Cli                349 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
@@ -307,7 +307,7 @@ Gemini                   0 lines             ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.58% of written lines came from AI
-📄 Detailed Prompter — average 1,236 characters per prompt
+📄 Detailed Prompter — average 1,348 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
 🚀 High AI Trust — 15.82% of changed lines were hand-edited
 ```
@@ -329,7 +329,7 @@ Wolfram Language         1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/vbatecan/vbatecan/main/assets/bar_graph.png)
 
 
- Last Updated on 11/09/2026 21:09:43 UTC
+ Last Updated on 12/09/2026 20:46:58 UTC
 <!--END_SECTION:waka-->
 
 
